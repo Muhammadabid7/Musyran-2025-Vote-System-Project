@@ -42,22 +42,22 @@
 <tr>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
-<br><b>📊 Real-time Stats</b>
+<br><b>Real-time Stats</b>
 <br><sub>Statistik voting live</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50"/>
-<br><b>🔐 Secure Login</b>
+<br><b>Secure Login</b>
 <br><sub>Auth admin & panitia</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"/>
-<br><b>📱 QR Scanner</b>
+<br><b>QR Scanner</b>
 <br><sub>Scan untuk voting</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
-<br><b>⚡ Emergency Mode</b>
+<br><b>Emergency Mode</b>
 <br><sub>Backup manual voting</sub>
 </td>
 </tr>
